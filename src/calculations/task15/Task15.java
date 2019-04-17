@@ -1,3 +1,6 @@
+/**
+ * Пользователь вводит число. Выведите на экран квадрат этого числа, куб этого числа.
+ */
 package calculations.task15;
 
 import java.util.Scanner;

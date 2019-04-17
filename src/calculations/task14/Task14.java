@@ -1,3 +1,6 @@
+/**
+ * Пользователь вводит два числа. Найдите сумму и произведение данных чисел.
+ */
 package calculations.task14;
 
 import java.util.Scanner;

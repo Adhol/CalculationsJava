@@ -1,3 +1,6 @@
+/**
+ * Вывести на экран букву "W" из символов "*" (звездочка).
+ */
 package calculations.task5;
 
 public class Task5 {

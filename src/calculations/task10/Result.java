@@ -7,7 +7,7 @@ public class Result {
         this.x = x;
     }
 
-    public double result() {
+    public double displayResult() {
         double res = Math.pow((x + 1), 2) + 3 * (x + 1);
         return res;
     }

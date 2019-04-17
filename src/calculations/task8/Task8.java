@@ -1,3 +1,6 @@
+/**
+ * Вычислите значение выражения (a+4b)(a−3b)+a^2 при a=2 и b=3. Ответ:  -94
+ */
 package calculations.task8;
 
 public class Task8 {

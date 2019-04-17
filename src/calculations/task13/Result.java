@@ -12,7 +12,7 @@ public class Result {
         this.x = x;
     }
 
-    public double result() {
+    public double displayResult() {
         double res = pow((pow(x, 2) + b), 1.0 / 5.0) - ((pow(b, 2) * pow(sin(x + a), 3)) / x);
         return res;
     }

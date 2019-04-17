@@ -1,5 +1,7 @@
+/**
+ * Вычислите |x|+x^5, если x=−2. Ответ: -30
+ */
 package calculations.task9;
-import java.math.*;
 
 public class Task9 {
     public static void main(String[] args) {

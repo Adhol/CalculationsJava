@@ -10,8 +10,8 @@ public class Result {
             this.x = x;
         }
 
-    public double result() {
-        double res = pow(E, x - 2) + abs(sin(x)) - pow(x, 4) * cos(1 / x);
+    public double displayResult() {
+        double res = exp(x - 2) + abs(sin(x)) - pow(x, 4) * cos(1 / x);
         return res;
     }
 }
